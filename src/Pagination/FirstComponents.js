@@ -67,7 +67,7 @@ export class FirstComponents extends PureComponent {
     render() {
         return (
             <div>
-                  <h1>Welcome to GKTechy!</h1>
+                  <h1>Welcome to User Details!</h1>
 
                   <table border="1">
                      <thead>
